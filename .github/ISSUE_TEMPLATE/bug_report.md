@@ -1,9 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help improve the template
-title: ""
-labels: ""
-assignees: ""
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **Describe the bug**
